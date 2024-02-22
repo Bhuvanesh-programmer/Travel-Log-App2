@@ -1,0 +1,13 @@
+.feedback{
+    border: 3px solid blue;
+    padding: 30px;
+    margin: 50px;
+}
+.storeval{
+    visibility: hidden ;
+    height: 70px;
+}
+#message{
+    visibility: visible ;
+
+}
